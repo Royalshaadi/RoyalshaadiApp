@@ -1,0 +1,421 @@
+{
+  "settings": {
+    "name": "App",
+    "currentPage": "Royalshaadi App",
+    "theme": {
+      "name": "purity",
+      "title": "PurityM",
+      "styling": {}
+    },
+    "versionFirst": "3.10",
+    "uniqCompNum": 9,
+    "versionPublish": "3.10",
+    "favicon": "@PROJECT_PATH@/assets/images/appicon-128x128-74.png",
+    "noImageResize": "",
+    "cookiesAlert": "",
+    "google-analytics": "",
+    "publishType": "github",
+    "publishPath": "file:///C:/Users/user/Desktop/New%20folder%20(4)/Royal%20shaadi%20apps%20add/Royalshaadi%20app"
+  },
+  "pages": {
+    "Royalshaadi App": {
+      "settings": {
+        "main": true,
+        "title": "",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_inherit": "msg-box5",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box4",
+          "_styles": {
+            ".btn": {
+              "font-size": "13px",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+            },
+            ".mbr-section-title": {
+              "color": "#51100e",
+              "font-size": "21px"
+            }
+          },
+          "_anchor": "msg-box4-0",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "bgColor": "#0275d8",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": false,
+            "showTitle": true,
+            "showMeta": false,
+            "showText": false,
+            "showButtons": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/royalshaadi-logo-1-1400x700-60.png",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Don't Have To Pay Upfront Huge Payment For Profile Search &amp; Contact Address",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>Mobirise helps you cut down development time by providing you with a flexible website editor.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"http://royalshaadi.in\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">&nbsp;Register Free&nbsp;</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"http://royalshaadi.in\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Member Login</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"http://royalshaadi.in\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">&nbsp; Quick &nbsp;Search &nbsp;</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"Royal Shaadi #msg-box3-1\" data-toolbar=\"-mbrBtnMove\">Free Frachisee</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"Royal Shaadi #msg-box3-3\" data-toolbar=\"-mbrBtnMove\">Legal Desclaimer</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"Royal Shaadi #contacts3-5\" data-toolbar=\"-mbrBtnMove\">&nbsp;Contact Us&nbsp;</a> "
+        },
+        {
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "color": "#fbf2be",
+              "font-size": "21px"
+            },
+            ".lead P": {
+              "text-align": "left",
+              "color": "#fff8e0"
+            },
+            ".btn": {
+              "font-size": "11px",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+            }
+          },
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-1",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "bgColor": "#051cb7",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButton": true
+          },
+          "title": "<i><b><br></b></i><i><b>Free Franchisee</b></i>",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p><i>Royalshaadi.in</i> is in process of appointing Super franchisee, Franchisee &amp; Agents in free of cost at different cities in INDIA.Growing Indian Population Presents huge opportunity for starting a matrimonial website franchisee.India presents a huge growing young population with wide Cultural, Religion &amp; Geography diversity. India &amp; Sub Continent presents a huge Business Opportunity.</p><p><span style=\"font-size: 1.25rem; line-height: 1.5;\"><b>Seven Reasons: <i>Why you should start matrimonial Business Franchisee.</i></b></span></p><p><span style=\"font-size: 1.25rem; line-height: 1.5;\">* Big Problem for find out life partner</span><br></p><p><span style=\"font-size: 1.25rem; line-height: 1.5;\">* Big Problem for Collecting Horoscopes.</span><br></p><p><span style=\"font-size: 1.25rem; line-height: 1.5;\">* Cheating by marriage brokers</span><br></p><p><span style=\"font-size: 1.25rem; line-height: 1.5;\">* Huge Market</span><br></p><p><span style=\"font-size: 1.25rem; line-height: 1.5;\">* Wide Geography</span><br></p><p><span style=\"font-size: 1.25rem; line-height: 1.5;\">* Complicated cast system</span><br></p><p><span style=\"font-size: 1.25rem; line-height: 1.5;\">* Wide Scope</span><br></p><p><span style=\"font-size: 1.25rem; line-height: 1.5;\"><b><i>Advantage of Become Franchisee</i></b></span></p><p><span style=\"font-size: 1.25rem; line-height: 1.5;\">*  Revolutionary business concept - I st time in India* Working under the brand name of Royalshaadi.in will give you good exposures in the market.</span></p><p><span style=\"font-size: 1.25rem; line-height: 1.5;\">*  Multiple Revenue, Scope of Earning, Low cost business operation, low customer support required , Potential of bulk/individual Deals</span><br></p><p><span style=\"font-size: 1.25rem; line-height: 1.5;\">*  Non stop, long life, High Demand &amp; Completely online business Concept.</span><br></p><p><span style=\"font-size: 1.25rem; line-height: 1.5;\">*  You can add unlimited branches in under your one franchisee account in free of cost.</span><br></p><p><span style=\"font-size: 1.25rem; line-height: 1.5;\">*  You can check day / week / month wise sale &amp; Collection through your branches . Ex: Can check quantity of profile print sale /quantity of new  profile registration / quantity of upgrade to premium etc</span><br></p><p><span style=\"font-size: 1.25rem; line-height: 1.5;\">*  In login page get business promotional links in under your user name / Business Code for promoting this business for boosting your income.</span><br></p><p><span style=\"font-size: 1.25rem; line-height: 1.5;\">*  If you have already profiles with you / If any customer directly visit at your shop for register, can add photo , bio-data &amp; horoscope at free of cost</span><br></p><p><span style=\"font-size: 1.25rem; line-height: 1.5;\">* Advanced Profile Searching Facility ……….Boys | Girls</span><br></p><p><span style=\"font-size: 1.25rem; line-height: 1.5;\">*  Get upto 10 type income through our franchisee. Enjoy &amp; earn Unlimited income per month</span><br></p><p><span style=\"font-size: 1.25rem; line-height: 1.5;\">*  Simply you can earn above 20,000/- per month</span><br></p><p><span style=\"font-size: 1.25rem; line-height: 1.5;\">*  Complete transparency in relation to business payouts.</span><br></p><p><span style=\"font-size: 1.25rem; line-height: 1.5;\">*  You can Dowload / Print the available data’s with us and take address and phone no. email id for matchin your clients.</span><br></p><p><span style=\"font-size: 1.25rem; line-height: 1.5;\">*  A glow sign / flex board is to be put at the franchisee office at the cost of the franchisee itself but artwork will be provided by Royalshaadi.in .You can download Design of signed board for flex printing in free of cost. Available Board size: 5*2 feet , 5*3 feet , 7*3 feet, 4*3 feet.</span><br></p><p><span style=\"font-size: 1.25rem; line-height: 1.5;\">*  Will deduct the cost of each Profile, From your Subscription amount at the time of taking download / print the profile for sale to the customer.</span><br></p><p><span style=\"font-size: 1.25rem; line-height: 1.5;\">*  You can Choose &amp; subscribe Suitable Subscription Amount, depending upon your sales of print out.</span><br></p><p><span style=\"font-size: 1.25rem; line-height: 1.5;\">*  You Can Expect special season Offers like Product Gifts / Price Discounts / Gift Vouchers / Tour packages etc.. for all franchisee depending on Business valium.</span><br></p><p><span style=\"font-size: 1.25rem; line-height: 1.5;\">*  This franchisee Suitable for internet café / travels agents / chitty firm / duty paid shop / Akshaya Centers / Computer institute / Photostat shops / Studios / Franchisee Outlets / Commission Agents / Finance or loans marketing firms / Consultancy Firm / Real estate firm Etc…</span><br></p><p><span style=\"font-size: 1.25rem; line-height: 1.5;\">*  Can Upload marriage or Engagement photos in free of cost.</span><br></p><p><b style=\"font-size: 1.25rem; line-height: 1.5;\"><i>The Requirements to Become Franchisee</i></b><br></p><p><span style=\"font-size: 1.25rem; line-height: 1.5;\">*  You must have computer and Printer</span><br></p><p><span style=\"font-size: 1.25rem; line-height: 1.5;\">*  Must have internet connection to your computer</span><br></p><p><span style=\"font-size: 1.25rem; line-height: 1.5;\">*  You must have telephone number</span><br></p><p><span style=\"font-size: 1.25rem; line-height: 1.5;\">*  You Must have fix a sign / flex board of Royalshaadi.in (You can download Design of signed board in free of cost).</span><br></p><p><span style=\"font-size: 1.25rem; line-height: 1.5;\">*  You must have a small size office in town area &nbsp;</span><br></p><p><span style=\"font-size: 1.25rem; line-height: 1.5;\">*  You Must have a web camera &amp; scanner.</span><br></p><p><span style=\"font-size: 1.25rem; line-height: 1.5;\">*  You have to accept our terms and conditions</span><br></p><p><span style=\"font-size: 1.25rem; line-height: 1.5;\"><i style=\"font-weight: bold;\">Have you any Doubts about franchisee? &nbsp; &nbsp; &nbsp;</i><a href=\"Royal Shaadi #contacts3-5\">Click Here</a></span><br></p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"Royal Shaadi #msg-box4-0\" data-toolbar=\"-mbrBtnMove\">Back</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"http://royalshaadi.in/franchisee.php\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Register Free Now!</a>    "
+        },
+        {
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center"
+            },
+            ".mbr-section-title B": {
+              "font-size": "14px",
+              "color": "#77f50e"
+            },
+            ".lead P": {
+              "font-family": "'Slabo 27px', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px",
+              "font-size": "14px",
+              "color": "#fff8e0",
+              "text-align": "left"
+            },
+            ".btn": {
+              "font-size": "13px",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+            },
+            ".mbr-section-title SPAN": {
+              "font-size": "22px",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+            }
+          },
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-3",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "bgColor": "#e5400d",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButton": true
+          },
+          "title": "<font color=\"#77f50e\"><span style=\"font-size: 14px; line-height: 15px;\"><b>Legal Desclaimer</b></span></font>",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p><span style=\"font-size: 1.25rem; line-height: 1.5;\">Abuse of Photos , Personal Data &amp; Franchisee Benifit Ideas in Royalshaadi.in will attract Legal action towards the abuser according to the IT act. This Program Protected by Copyright Law. Unauthorized Reproduction of this Program, or any Portion of it, may result severe Civil and Criminal Penalties, and will be prosecuted to the maximum extent possible under the law.</span></p><p><span style=\"line-height: 1.5;\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; @ Copyright 2015. All rights reserved&nbsp;</span></p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"Royal Shaadi #msg-box4-0\" data-toolbar=\"-mbrBtnMove\">Back</a>"
+        },
+        {
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form1",
+          "_styles": {
+            ".btn": {
+              "font-size": "13px",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+            },
+            ".mbr-section-title B": {
+              "font-size": "13px",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "color": "#fbf2be"
+            },
+            ".mbr-section-title": {
+              "font-size": "22px",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "color": "#f1c050"
+            },
+            ".mbr-section-title I": {
+              "font-size": "15px"
+            }
+          },
+          "_anchor": "form1-4",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "bgColor": "#000284",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true
+          },
+          "title": "<i><b>Write Now!</b> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <b>&nbsp; <a href=\"Royal Shaadi #msg-box4-0\">Back</a>&nbsp;</b></i>",
+          "form": {
+            "action": "royalshaadisite@gmail.com",
+            "alerts": {
+              "success": "Thanks for your valuable Response. We will Touch with you Later."
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": true,
+                "customTitle": "Full Name*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Active Email ID*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": true,
+                "customTitle": "Active Phone*"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-black-outline btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Submit</a>"
+        },
+        {
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts3",
+          "_styles": {
+            "STRONG": {
+              "color": "#51100e",
+              "font-size": "19px",
+              "text-align": "center"
+            },
+            "I": {
+              "font-size": "19px",
+              "color": "#2e0908",
+              "text-align": "center"
+            },
+            "P": {
+              "font-size": "18px",
+              "text-align": "left"
+            },
+            "DIV": {
+              "font-size": "18px"
+            },
+            ".btn": {
+              "font-size": "13px"
+            },
+            "B": {
+              "font-size": "20px"
+            }
+          },
+          "_anchor": "contacts3-5",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "bgColor": "#996b02",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "text1": "<b style=\"font-style: italic;\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</b><b>Contact Us</b><br><strong><i>Address</i></strong><br><b>Puthumaa Enterprises</b><br>Peringode Post, Koottanad<br>Palakkad Dt , Kerala St<br>INDIA - 679 535<br>\n<strong><i>Contacts</i></strong><br>Email:&nbsp;Royalshaadisite@gmail.com&nbsp; <br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; info@royalshaadi.in&nbsp;<br>Phone: +91 98461 04883<br>",
+          "text2": "<p><i><b>Customer Care</b></i><br></p><div><div>0 = 98461 04883</div><div>E Mail : Royalshaadisite@gmail.com</div><div><p><b><i>Business Offer</i></b></p><p><a href=\"https://puthuma.github.io/Puthuma/Puthuma.html\" target=\"_blank\" class=\"text-primary\">Click Here</a></p><p><b><i>Link</i></b></p><p><a href=\"http://royalshaadi.in\" target=\"_blank\" class=\"text-primary\">Website</a></p></div></div><p></p>",
+          "form": {
+            "title": "MESSAGE",
+            "action": "royalshaadisite@gmail.com",
+            "alerts": {
+              "success": "Thanks for your valuable Response. We will touch with you later."
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": true,
+                "customTitle": "Full Name*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Active Email ID*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": true,
+                "customTitle": "Active Phone No.* "
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Send Now!</a>"
+        },
+        {
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons1",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-size": "14px",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+            }
+          },
+          "_anchor": "social-buttons1-7",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "bgColor": "#eaad21",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "facebook": true,
+            "counters": true,
+            "twitter": true,
+            "google": true
+          },
+          "text": "Share Now! &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <b>&nbsp;<a href=\"Royal Shaadi #msg-box4-0\" class=\"text-primary\">Back</a></b>"
+        },
+        {
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "text-align": "center"
+            }
+          },
+          "_anchor": "footer1-8",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "bgColor": "#000000",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "@ Copyright 2015. All rights reserved at Royalshaadi.in"
+        }
+      ]
+    }
+  }
+}

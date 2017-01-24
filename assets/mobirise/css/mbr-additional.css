@@ -1,0 +1,108 @@
+@import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Slabo+27px);
+
+
+
+
+
+
+
+
+
+#msg-box4-0 .btn {
+  font-size: 13px;
+  font-family: 'Oswald', sans-serif;
+}
+#msg-box4-0 .mbr-section-title {
+  color: #51100e;
+  font-size: 21px;
+}
+#msg-box3-1 .mbr-header .mbr-header__text {
+  text-align: center;
+}
+#msg-box3-1 .mbr-header .mbr-header__subtext {
+  text-align: center;
+}
+#msg-box3-1 .mbr-section-title {
+  color: #fbf2be;
+  font-size: 21px;
+}
+#msg-box3-1 .lead P {
+  text-align: left;
+  color: #fff8e0;
+}
+#msg-box3-1 .btn {
+  font-size: 11px;
+  font-family: 'Oswald', sans-serif;
+}
+#msg-box3-3 .mbr-header .mbr-header__text {
+  text-align: center;
+}
+#msg-box3-3 .mbr-header .mbr-header__subtext {
+  text-align: center;
+}
+#msg-box3-3 .mbr-section-title B {
+  font-size: 14px;
+  color: #77f50e;
+}
+#msg-box3-3 .lead P {
+  font-family: 'Slabo 27px', serif;
+  font-size: 14px;
+  color: #fff8e0;
+  text-align: left;
+}
+#msg-box3-3 .btn {
+  font-size: 13px;
+  font-family: 'Oswald', sans-serif;
+}
+#msg-box3-3 .mbr-section-title SPAN {
+  font-size: 22px;
+  font-family: 'Oswald', sans-serif;
+}
+#form1-4 .btn {
+  font-size: 13px;
+  font-family: 'Oswald', sans-serif;
+}
+#form1-4 .mbr-section-title B {
+  font-size: 13px;
+  font-family: 'Oswald', sans-serif;
+  color: #fbf2be;
+}
+#form1-4 .mbr-section-title {
+  font-size: 22px;
+  font-family: 'Oswald', sans-serif;
+  color: #f1c050;
+}
+#form1-4 .mbr-section-title I {
+  font-size: 15px;
+}
+#contacts3-5 STRONG {
+  color: #51100e;
+  font-size: 19px;
+  text-align: center;
+}
+#contacts3-5 I {
+  font-size: 19px;
+  color: #2e0908;
+  text-align: center;
+}
+#contacts3-5 P {
+  font-size: 18px;
+  text-align: left;
+}
+#contacts3-5 DIV {
+  font-size: 18px;
+}
+#contacts3-5 .btn {
+  font-size: 13px;
+}
+#contacts3-5 B {
+  font-size: 20px;
+}
+#social-buttons1-7 .mbr-section-title {
+  font-size: 14px;
+  font-family: 'Oswald', sans-serif;
+}
+#footer1-8 P {
+  text-align: center;
+}
